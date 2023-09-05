@@ -1,8 +1,39 @@
-# React + Vite
+# Vite React Three.js Shirt Customizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Vite-based React Three.js Shirt Customizer project! This web application allows you to customize the color, logo, and texture of a virtual shirt model using React, Three.js, and Framer Motion for smooth animations.
 
-Currently, two official plugins are available:
+![Customized Shirt Preview](https://github.com/GautamGulati28/react-threejs-project/assets/101964337/0d4b534b-3cf4-4a47-bc33-71a4b6541ea6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can check out a live demo of the Vite React Three.js Shirt Customizer here: [Demo Link](https://example.com)
+
+## Features
+
+- **Shirt Customization**: Change the color of the shirt using a color picker.
+- **Logo and Texture Customization**: Upload your own logo or texture image to apply it to the shirt.
+- **Toggle Logo and Texture**: Easily toggle the visibility of the logo and texture on the shirt.
+- **Smooth Animations**: Enjoy smooth animations and transitions powered by Framer Motion.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, make sure you have the following software installed on your computer:
+
+- Node.js and npm (Node Package Manager)
+- Git (optional, but recommended for cloning the repository)
+
