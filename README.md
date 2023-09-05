@@ -4,10 +4,10 @@ Welcome to the Vite-based React Three.js Shirt Customizer project! This web appl
 
 ![Customized Shirt Preview](https://github.com/GautamGulati28/react-threejs-project/assets/101964337/0d4b534b-3cf4-4a47-bc33-71a4b6541ea6)
 
-- 
+
 ## Demo
 
-You can check out a live demo of the Vite React Three.js Shirt Customizer here: [Demo Link](https://example.com)
+You can check out a live demo of the Vite React Three.js Shirt Customizer here: [Live Site](https://react-threejs-project-b1g3.vercel.app/)
 
 ## Features
 
