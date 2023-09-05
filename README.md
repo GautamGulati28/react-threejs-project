@@ -3,6 +3,8 @@
 Welcome to the Vite-based React Three.js Shirt Customizer project! This web application allows you to customize the color, logo, and texture of a virtual shirt model using React, Three.js, and Framer Motion for smooth animations.
 
 ![Customized Shirt Preview](https://github.com/GautamGulati28/react-threejs-project/assets/101964337/0d4b534b-3cf4-4a47-bc33-71a4b6541ea6)
+![Customizer](https://github.com/GautamGulati28/react-threejs-project/assets/101964337/4b13a36a-ca7f-49bb-a80a-7cd1a8ff872f)
+
 
 
 ## Demo
